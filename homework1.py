@@ -12,4 +12,4 @@ def hw1 ():
         print (f'+{i}',sep = '', end = '')
     # print過程及答案
     print('=',sum, sep ='', end = '') 
-hw1(1)
+hw1()
